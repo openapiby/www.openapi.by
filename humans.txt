@@ -2,5 +2,5 @@ This site is initiative of people who tired of going to government and bank
 sponsored hackatons and wasting time, because these parties do not provide
 any hacker friendly API.
 
-Don't mess with the best - join us on our quest
+Don't mess with the best - join us in this quest
 https://github.com/orgs/openapiby/people
