@@ -16,7 +16,7 @@
 ### What we do
 
 Our goal (if possible) is to help efforts to clarify and enable
-the usag of Open APIs on governmental, business and personal
+the usage of Open APIs on governmental, business and personal
 level, providing public place for discussion and open playground
 for all interested parties. We are still doing this in our
 free time, because we believe that waiting for something to
@@ -24,4 +24,4 @@ happen is a fruitless strategy. :)
 
 ### Who we are
 
-See `humans.txt` and join to help us held the party.
+See `humans.txt` and send PR to join the party.
